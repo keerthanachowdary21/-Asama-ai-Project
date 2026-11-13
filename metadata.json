@@ -1,0 +1,6 @@
+{
+  "name": "Asama.ai",
+  "description": "Full-stack engineering workbench implementing the B2B AI Agent Semantic Routing Network and the Safe Tool-Calling Local Linux Hardware Q&A Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
